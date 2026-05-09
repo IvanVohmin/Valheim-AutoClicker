@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/aa7253f9-6fe5-40da-b94a-3a5bcd84b8f5" />
+<img width="1204" height="835" alt="изображение" src="https://github.com/user-attachments/assets/8a8ec0d2-ac46-4df1-a3e9-27352718c1f2" />
 
 # Valheim AutoClicker
 
