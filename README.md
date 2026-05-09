@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/aa7253f9-6fe5-40da-b94a-3a5bcd84b8f5" />
+
 # Valheim AutoClicker
 
 A lightweight autoclicker made for Valheim.
