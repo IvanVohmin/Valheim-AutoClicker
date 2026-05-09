@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/*
+!dist/
+!dist/*.exe
+
+# Logs and local files
+*.log
+.env
+
+# IDE
+.idea/
+.vscode/
